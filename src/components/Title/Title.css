@@ -1,5 +1,5 @@
 .titlebox {
-    background-image: url('/img/cutness.jpg');
+    background-image: url('./img/cutness.jpg');
     background-size: 100%;
     background-repeat: no-repeat;
     width: 100%;
