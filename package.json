@@ -4,9 +4,10 @@
   "private": true,
   "homepage": "https://github.com/blbaker1989/dogclick",
   "dependencies": {
+    "axios": "^0.17.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "^1.0.17"
   },
   "scripts": {
     "predeploy": "npm run build",
