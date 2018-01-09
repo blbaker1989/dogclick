@@ -3009,6 +3009,16 @@ homepage@:
     oboe "*"
     opn "*"
 
+"homepage@https://github.com/blbaker1989/dogclick":
+  version "0.1.0"
+  resolved "https://github.com/blbaker1989/dogclick#1bc1f46511d60b7e6cb8f05a994bda2858b5aa0c"
+  dependencies:
+    gh-pages "^1.1.0"
+    homepage ""
+    react "^16.2.0"
+    react-dom "^16.2.0"
+    react-scripts "1.0.17"
+
 hosted-git-info@^2.1.4:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.5.0.tgz#6d60e34b3abbc8313062c3b798ef8d901a07af3c"
